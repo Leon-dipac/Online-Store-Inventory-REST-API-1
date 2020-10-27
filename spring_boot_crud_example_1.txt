@@ -1,0 +1,19 @@
+Useful Links : 
+
+	1- https://techblogstation.com/spring-boot/spring-boot-mysql-hibernate/
+	2- https://www.javaguides.net/2020/04/spring-boot-mysql-jpa-hibernate-restful-crud-api-tutorial.html
+
+Components or Dependencies Links:
+	- JPA : 
+		1- https://www.baeldung.com/jsf-spring-boot-controller-service-dao
+		2- https://www.amitph.com/jpa-and-spring-data-jpa/
+
+
+Notes:
+
+	Spring Boot is very easy to use framework or module and it requires very less configuration
+ to start the application quickly. In this tutorial, We will learn to develop a RESTful CRUD 
+( Create, Retrieve, Update , Delete operations) API with Spring Boot , MySQL, JPA and Hibernate.
+
+	Practically through this tutorial, we will develop one simple application or REST API and
+ we will cover the CRUD operations using the MySql database , Hibernate and JPA.

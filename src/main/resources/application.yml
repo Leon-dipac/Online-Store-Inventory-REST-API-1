@@ -1,0 +1,20 @@
+# We can use this application file or we can use the 'application.properties' file.
+
+
+# Let's comment out this ones and use the 'application.properties' file.
+#spring:
+#  datasource:
+#    username: root
+#    password: southafrica
+#    url: jdbc:mysql://localhost:3306/store_inventory_1
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+#    properties.hibernate.dialect: org.hibernate.dialect.MySQL5Dialect
+
+
+
+
