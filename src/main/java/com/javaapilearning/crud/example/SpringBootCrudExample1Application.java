@@ -30,6 +30,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
+// Let's push it on Github
 public class SpringBootCrudExample1Application {
 
 	public static void main(String[] args) {

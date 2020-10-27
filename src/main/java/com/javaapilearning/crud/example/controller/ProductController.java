@@ -11,6 +11,7 @@ import java.util.List;
 // The controller will handle the navigation between the different views.
 
 @RestController
+// Let's push it on Github
 public class ProductController {
 
     @Autowired
